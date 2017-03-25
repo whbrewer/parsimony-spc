@@ -1,0 +1,12 @@
+{
+   "category": "", 
+   "name": "parsimony", 
+   "input_format": "ini", 
+   "language": "", 
+   "command": "python ../../../../apps/parsimony/parsimony.py", 
+   "postprocess": "", 
+   "preprocess": "", 
+   "plots": [], 
+   "assets": [], 
+   "description": "Brute force parsimony algorithm"
+}
